@@ -1,4 +1,4 @@
-# Azure-Network-Security-Groups# Network-security-Groups<p align="center">
+# Azure Network Security Groups<p align="center">
 <img src="https://i.imgur.com/Ua7udoS.png" alt="Traffic Examination"/>
 </p>
 
